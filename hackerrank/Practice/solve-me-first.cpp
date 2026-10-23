@@ -1,0 +1,28 @@
+// Problem: Solve Me First
+// Platform: hackerrank
+// Language: cpp
+// Verdict: Accepted
+// URL: https://www.hackerrank.com/challenges/solve-me-first/problem
+// Solved on: 2026-10-23T10:00:19.931Z
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int solveMeFirst(int a, int b) {
+   int result = a + b ;
+   return result ;
+  
+}
+
+int main() {
+  int num1, num2;
+  int sum;
+  cin>>num1>>num2;
+  sum = solveMeFirst(num1,num2);
+  cout<<sum;
+  return 0;
+}

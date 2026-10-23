@@ -74,7 +74,7 @@ This repository is a continuous record of my coding journey. I'll keep adding so
 
 My focus is on **understanding the logic, learning from mistakes, and improving consistently** rather than simply counting solved problems.
 
----
 
-> 🌱 Start with the basics. Build strong logic. Master DSA. Keep improving.
+
+
 

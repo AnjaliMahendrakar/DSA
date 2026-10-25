@@ -2,7 +2,7 @@
 
 Welcome to my **DSA and Competitive Programming** repository! 🚀
 
-This repository contains my coding problem solutions from **HackerRank, Codeforces, and LeetCode**, synced automatically to GitHub using CP Sync.
+This repository contains my coding problem solutions from **HackerRank, Codeforces, and LeetCode**.
 
 I'm following a step-by-step learning path to build strong programming fundamentals before progressing to competitive programming and Data Structures & Algorithms (DSA).
 
@@ -45,7 +45,7 @@ Once I build a solid foundation, I'll focus on DSA concepts and interview-orient
 
 ## 📂 Repository Organization
 
-Solutions are organized by platform and the folder structure provided by CP Sync.
+Solutions are organized by platform and the folder structure.
 
 ```text
 DSA/
@@ -56,7 +56,7 @@ DSA/
 └── README.md
 ```
 
-*The folders will appear as I start solving problems on each platform. The exact structure depends on CP Sync.*
+*The folders will appear as I start solving problems on each platform.*
 
 ## 🎯 Goals
 

@@ -72,7 +72,7 @@ DSA/
 
 This repository is a continuous record of my coding journey. I'll keep adding solutions as I practice, learn new concepts, and take on more challenging problems.
 
-My focus is on **understanding the logic, learning from mistakes, and improving consistently** rather than simply counting solved problems.
+My focus is on **understanding the logic, learning from mistakes, and improving consistently** rather than simply counting solved problems. 
 
 
 

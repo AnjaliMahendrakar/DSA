@@ -2,8 +2,8 @@
 // Platform: hackerrank
 // Language: cpp
 // Verdict: Accepted
-// URL: https://www.hackerrank.com/challenges/solve-me-first/problem
-// Solved on: 2026-10-23T10:00:19.931Z
+// URL: https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+// Solved on: 2026-11-20T05:47:38.427Z
 
 #include <cmath>
 #include <cstdio>

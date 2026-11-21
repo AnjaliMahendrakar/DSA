@@ -4,7 +4,7 @@
 // Language: cpp
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-// Solved on: 2026-11-21T03:53:31.457Z
+// Solved on: 2026-11-21T04:15:10.621Z
 
 class Solution {
 public:
